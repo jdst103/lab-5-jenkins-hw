@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/app":{"guestpath":"/home/ubuntu/app","hostpath":"C:/Users/Jason Robinson/Documents/eng53-week1-day4/lab-3/starter-code/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Jason Robinson/Documents/eng53-week1-day4/lab-3/starter-code","disabled":false,"__vagrantfile":true}}}
